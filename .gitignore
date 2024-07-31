@@ -1,0 +1,51 @@
+# Archivos de Gradle
+.gradle/
+build/
+
+# Archivos de Android Studio
+.idea/
+*.iml
+*.hprof
+
+# Archivos específicos de plataforma
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+local.properties
+google-services.json
+*.log
+
+# Directorios específicos de construcción nativa
+.externalNativeBuild/
+.cxx/
+
+# Capturas de pantalla
+captures/
+
+# Archivos de IntelliJ IDEA/Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos generados
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
+*.csv
+*.xml
+
+# Archivos de sistemas
+*.swp
+*.swo
+*.swn
+*.swo
+*.tmp
+*.bak
+*.swm
